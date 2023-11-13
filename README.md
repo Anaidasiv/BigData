@@ -1,4 +1,4 @@
-# BigData
+# BigData Coursework using Spark and TensorFlow/Keras
 Big Data coursework 
 This coursework focuses on parallelisation and scalability in the cloud with Spark and TesorFlow/Keras. 
 We start with code based on **lessons 3 and 4** of the [*Fast and Lean Data Science*](https://github.com/GoogleCloudPlatform/training-data-analyst/tree/master/courses/fast-and-lean-data-science) course by Martin Gorner. 
